@@ -7,7 +7,7 @@ namespace AGA_Group3.Models
     {
         public IActionResult Index()
         {
-           "hello teacher"
+           
             return View();
         }
     }

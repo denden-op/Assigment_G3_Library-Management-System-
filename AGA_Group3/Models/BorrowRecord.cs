@@ -1,6 +1,6 @@
 ﻿namespace AGA_Group3.Models
 {
-    public class Class
+    public class BorrowRecord
     {
     }
 }
